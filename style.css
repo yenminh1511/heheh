@@ -1,0 +1,33 @@
+@charset "utf-8";
+/* CSS Document */
+.container{
+	width: 80%; margin: 0 auto}
+body {font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif"; font-size: 16px; color:666666; margin: 0}
+.img-100{width: 100%; height: auto}
+
+header{width: 100%; height: 60px; background-color: #FA963D}
+.logo{float:left}
+.menu{float: right; padding-top: 20px}
+.menu a{padding: 10px 20px; text-decoration: none; text-transform: uppercase; color: white; font-weight: 600}
+.menu a:hover{color: blue}
+
+main{width: 100%; min-height: 500px}
+.w-25{width: 22%; padding: 15px; float: left}
+.vien{width: 100%; min-height: 150px; border: 1px solid blue; border-radius: 10px; padding: 10px; text-align: center; margin-top: 30px}
+.bo-goc{border-radius: 10px}
+.tour{font-size: 20px; color: blue; font-weight: 600}
+.gia{color: red; font-weight: 600}
+
+footer{width: 100%; height: 50px; background-color: #FA963D; color: white; text-align: center;line-height:3; clear: both }
+
+.form-control{padding: 8px; margin-bottom:10px; width:100% }
+.nut{padding: 10px 20px; border-radius:20px; background-color:#5F79F4; color: white; border: none;cursor: pointer}
+.btn{margin-left: 10px; padding: 10px 20px; border-radius: 20px; background-color:#FF3135;color:white; border: none; cursor: pointer}
+.nut:hover{background-color: #0E22BF}
+.btn:hover{background-color: darkred}
+
+.w-40{width:40%; padding: 15px; float: left}
+.w-60{width:60%; padding:15px; float: left}
+.text-xanh{color:#1848FF}
+.vien-xam{width:100%; min-height:300px; border:1px solid #B9B9B9; border-radius: 5px; padding: 10px; margin-bottom:15px}
+
